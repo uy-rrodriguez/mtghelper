@@ -1,0 +1,117 @@
+﻿/* ******************************************* */
+/*    General styles                           */
+/* ******************************************* */
+
+.text-right {
+    text-align: right;
+}
+
+
+/* ******************************************* */
+/*    Cards and Card lists                     */
+/* ******************************************* */
+.card-list-wrapper {
+    /*height: 370px;*/
+    height: 1px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    border: 1px solid #2b2b2b;
+    background: #3e3e3e;
+}
+
+.card-list-wrapper-expand {
+    min-height: 370px;
+    max-height: 600px;
+    height: 100%;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+.card-list {
+    text-align: center;
+    padding: 20px 10px;
+    /*width: 53500px;*/
+}
+
+.card-list-card {
+    display: inline-block;
+    margin: 0px 10px 0px 10px;
+    box-shadow: 0px 0px 2px 2px #202020;
+    border-radius: 10px;
+}
+
+.card-list-expand > .card-list-card {
+    text-align: center;
+    margin: 5px;
+    max-width: 179px;
+    max-height: 249px;
+}
+
+.card-list-expand > .card-list-card > img {
+    width: 100%;
+}
+
+
+/* ******************************************* */
+/*    Search engine                            */
+/* ******************************************* */
+
+.card-list-search-color-wrapper > .card-list-search-color {
+    margin-left: 5px;
+}
+
+.card-list-search-color-wrapper > .card-list-search-color:first-child {
+    margin-left: 0px;
+}
+
+.card-list-search-color {
+    display: inline-block;
+}
+
+.card-list-search-color > label {
+    margin: 0px;
+}
+
+.color-circle {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.color-circle-black {
+    background: #202020;
+}
+.color-circle-blue {
+    background: #1979FF;
+}
+.color-circle-green {
+    background: #0F9926;
+}
+.color-circle-red {
+    background: #C31A07;
+}
+.color-circle-white {
+    border: 1px solid #999;
+    background: #FFFFFF;
+}
+.color-circle-none {
+    border: 1px solid #999;
+    background: #DDD;
+}
+
+.card-list-search-text-wrapper {
+}
+.card-list-search-text {
+}
+
+
+/* ******************************************* */
+/*    Deck management                          */
+/* ******************************************* */
+
+
+
+
+/* ******************************************* */
+/*    Deck management                          */
+/* ******************************************* */
