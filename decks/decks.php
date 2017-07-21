@@ -1,0 +1,1 @@
+<?php$files = scandir(".");for ($files as $f)    echo basename($f) . PHP_EOL;
