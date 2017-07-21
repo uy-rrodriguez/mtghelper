@@ -1,0 +1,8 @@
+{
+  "name": "MTG Helper",
+  "description": "A simple Javascript Magic The Gathering deck manager and tester.",
+  "repository": "https://github.com/uy-rrodriguez/mtghelper",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
