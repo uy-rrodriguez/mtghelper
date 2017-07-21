@@ -1,1 +1,1 @@
-var_dump(__FILE__);
+<?phpvar_dump(__FILE__);
