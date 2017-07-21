@@ -1,1 +1,1 @@
-echo __FILE__;
+var_dump(__FILE__);
